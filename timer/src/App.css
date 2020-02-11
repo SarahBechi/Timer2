@@ -1,0 +1,77 @@
+.main{
+  background-color: #F7F7F7;
+}
+
+.exemple{
+  color: violet;
+  font-size: 23px;
+}
+
+.iphone{
+  width: 648px;
+    height: 626px;
+    margin-left: 357px;
+    
+    
+}
+.time{
+  color: black;
+    font-size: 20px;
+    position: absolute;
+    margin-bottom: 232px;
+    margin-left: 593px;
+    margin-top: -393px;
+}
+.timeInNumbers {
+  display: flex;
+  width: 183px;
+  justify-content: space-around;
+  font-size: 43px;
+
+
+}
+.hourMinute{
+  width: 193px;
+  display: flex;
+  justify-content: space-around;
+  font-size: 14px;
+  color: gray;
+}
+.startBtn {
+  border: 2px solid #009684;
+    width: 90px;
+    border-radius: 6.5px;
+    text-align: center;
+    padding: 6px;
+    color: #009684;
+}
+
+.resetBtn {
+  border: 2px solid black;
+  width: 90px;
+    border-radius: 6.5px;
+    text-align: center;
+    padding: 6px;
+}
+.buttons{
+  position: absolute;
+  margin-top: -253px;
+  margin-left: 539px;
+  width: 284px;
+  display: flex;
+  justify-content: space-around;
+  cursor: pointer;
+}
+
+.inputTime{
+  border: 2px solid black;
+  position: absolute;
+  margin-top: 185px;
+  margin-left: -416px;
+  width: 186px;
+  height: 29px;
+  border-radius: 5px;
+  font-size: 17px;
+  font-weight: 600;
+}
+
